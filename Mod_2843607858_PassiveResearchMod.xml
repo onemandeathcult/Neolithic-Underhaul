@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PassiveResearch.PassiveResearchSettings">
+		<passiveResearchSpeed>0.1</passiveResearchSpeed>
+		<passiveResearchReuiresWorkbench>True</passiveResearchReuiresWorkbench>
+	</ModSettings>
+</SettingsBlock>

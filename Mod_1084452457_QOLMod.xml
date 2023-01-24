@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RIMMSqol.QOLModSettings">
+		<settings />
+		<traitCosts />
+		<backstoryCosts />
+		<recordFactors />
+		<mainButtons>
+			<li>
+				<id>mainButtons</id>
+				<isConfigured>Label;f;IconPath;f;Description;f;Visible;t;Minimized;f;Order;f;Buttons;f;</isConfigured>
+				<baseObjectKey>Mechs</baseObjectKey>
+				<label>mechs</label>
+				<baseObjectReferenceKey>-1</baseObjectReferenceKey>
+			</li>
+		</mainButtons>
+		<architectButtons>
+			<li>
+				<id>architectButtons</id>
+				<isConfigured>Visible;t;Label;f;Order;f;SpecialDesignatorClasses;f;</isConfigured>
+				<baseObjectKey>Power</baseObjectKey>
+				<label>power</label>
+				<baseObjectReferenceKey>-1</baseObjectReferenceKey>
+			</li>
+			<li>
+				<id>architectButtons</id>
+				<isConfigured>Visible;t;Label;f;Order;f;SpecialDesignatorClasses;f;</isConfigured>
+				<baseObjectKey>PFDir</baseObjectKey>
+				<label>PF-directions</label>
+				<baseObjectReferenceKey>-1</baseObjectReferenceKey>
+			</li>
+			<li>
+				<id>architectButtons</id>
+				<isConfigured>Visible;t;Label;f;Order;f;SpecialDesignatorClasses;f;</isConfigured>
+				<baseObjectKey>Ship</baseObjectKey>
+				<label>ship</label>
+				<baseObjectReferenceKey>-1</baseObjectReferenceKey>
+			</li>
+		</architectButtons>
+		<recipes />
+		<floorsAndTerrain />
+		<thoughts />
+		<apparel />
+		<weapons />
+		<projectiles />
+		<damage />
+		<plants />
+		<material />
+		<food />
+		<resourceRock />
+		<buildings>
+			<li>
+				<id>buildings</id>
+				<isConfigured>Version;t;Label;f;PathCost;f;PathCostIgnoreRepeat;f;Passability;f;TerrainAffordanceNeeded;f;Selectable;f;NeverMultiSelect;f;constructionSkillPrerequisite;f;artisticSkillPrerequisite;f;BlockWind;f;HoldsRoof;f;FillPercent;f;CoversFloor;f;CastEdgeShadows;f;statBases;f;StaticSunShadowHeight;f;Fertility;f;Minifiable;f;Stealable;f;StuffCategories;t;CostStuffCount;f;CostList;f;KilledLeavings;f;DesignationCategory;f;DesignatorDropdown;f;CanGenerateDefaultDesignator;f;ResearchPrerequisites;f;Recipes;f;TurretGunDef;f;TurretBurstCooldownTime;f;TurretBurstWarmupTimeMin;f;TurretBurstWarmupTimeMax;f;TurretInitialCooldownTime;f;SowTag;f;CombatPower;f;BuildingTags;f;UseIdeoColor;f;DominantStyleCategory;f;ArtificialForMeditationPurposes;f;buildingPropertiesBed;f;CompRefuelable;f;CompTransporter;f;LinkableFacilities;f;CompFacility;f;GasStorageCapacity;f;GasTraderConsumption;f;GasTraderConsumptionWhenUsed;f;CompBattery;f;CompPower;f;CompHeatPusher;f;CompGlower;f;ThingCategories;f;CompBiosculpterPod_HealingCycle;f;CompProjectileInterceptor;f;</isConfigured>
+				<baseObjectKey>Frame_Campfire</baseObjectKey>
+				<label>campfire (building)</label>
+				<baseObjectReferenceKey>-1</baseObjectReferenceKey>
+				<StuffCategories>
+					<li>DankPyon_RawWood</li>
+					<li>Woody</li>
+					<li>Fabric</li>
+					<li>Grassy</li>
+				</StuffCategories>
+			</li>
+		</buildings>
+		<items />
+		<hediffs />
+		<pawns />
+		<traits />
+		<abilities />
+		<researchProjects />
+		<researchTabs />
+		<backstories />
+		<biomes />
+		<filth />
+		<factions />
+		<worldObject />
+		<genes />
+		<precepts />
+		<workGivers />
+		<weaponTraits />
+	</ModSettings>
+</SettingsBlock>
