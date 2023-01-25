@@ -20,6 +20,7 @@
 		<workAmount>500</workAmount>
 		<recipeUsers>
 			<li>SeedExtractionSpot</li>
+			<li>CraftingSpot</li>
 		</recipeUsers>
 		<ingredients>
 			<li>
@@ -79,6 +80,7 @@
 		<recipeUsers>
 			<li>HandTailoringBench</li>
 			<li>ElectricTailoringBench</li>
+<li>Loom</li>
 		</recipeUsers>
 	</RecipeDef>
 	
@@ -114,6 +116,7 @@
 		<recipeUsers>
 			<li>HandTailoringBench</li>
 			<li>ElectricTailoringBench</li>
+<li>Loom</li>
 		</recipeUsers>
 	</RecipeDef>
 	
@@ -188,7 +191,9 @@
 		<workAmount>1600</workAmount>
 		<workSkill>Intellectual</workSkill>
 		<recipeUsers>
-			<li>DrugLab</li>
+			<li>DrugLab</li>			
+<li>CraftingSpot</li>
+
 		</recipeUsers>
 	</RecipeDef>
 	
@@ -228,7 +233,8 @@
 		<recipeUsers>
 			<li>FueledStove</li>
 			<li>ElectricStove</li>
-			<li>ButcherSpot</li>
+					<li>CraftingSpot</li>
+
 		</recipeUsers>
 	</RecipeDef>
 	
@@ -267,8 +273,9 @@
 		</skillRequirements>
 		<recipeUsers>
 			<li>FueledStove</li>
-			<li>ElectricStove</li>
-			<li>ButcherSpot</li>
+			<li>ElectricStove</li>			
+<li>CraftingSpot</li>
+
 		</recipeUsers>
 	</RecipeDef>
 </Defs>
