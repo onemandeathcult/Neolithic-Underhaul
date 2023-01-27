@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="CherryPicker.ModSettings_CherryPicker">
 		<keys>
@@ -6,9 +6,6 @@
 			<li>ThingDef/RR_ThinkingSpot</li>
 			<li>ThingDef/ResearchingSpot</li>
 			<li>ThingDef/AR_Wine</li>
-			<li>ResearchProjectDef/Research_SRTS_Boats_Ship_Rig</li>
-			<li>ThingDef/SRTS_Boats_Ship_Active</li>
-			<li>ThingDef/SRTS_Boats_Ship</li>
 			<li>ThingDef/Corpse_AEXP_Hippopotamus</li>
 			<li>ThingDef/Corpse_ACPHippopotamus</li>
 			<li>ResearchProjectDef/DankPyon_Engineering</li>
@@ -63,6 +60,33 @@
 			<li>ThingDef/Gun_BallistaTurret</li>
 			<li>ThingDef/DankPyon_Turret_Trebuchet</li>
 			<li>ThingDef/DankPyon_Artillery_Trebuchet</li>
+			<li>ThingDef/TKKN_PlantSunflower</li>
+			<li>ThingDef/Corpse_VFEV_Mech_Odin</li>
+			<li>ThingDef/Corpse_VFEV_Wolfhound</li>
+			<li>ThingDef/Corpse_VFEV_Njorun</li>
+			<li>ThingDef/Corpse_VFEV_Lothurr</li>
+			<li>ThingDef/Corpse_VFEV_WoolyCow</li>
+			<li>ThingDef/Corpse_VFEV_Fenrir</li>
+			<li>IncidentDef/MFI_AnnualExpo</li>
+			<li>TraderKindDef/VFEM_Base_Medieval_Standard</li>
+			<li>TraderKindDef/VFEM_Caravan_Medieval_Farmer</li>
+			<li>TraderKindDef/VFEM_Caravan_Medieval_WineMerchant</li>
+			<li>TraderKindDef/VFEM_Caravan_Medieval_ArtPatron</li>
+			<li>TraderKindDef/VFEM_Caravan_Medieval_Armourer</li>
+			<li>TraderKindDef/VFEM_Caravan_Medieval_Weaponsmith</li>
+			<li>TraderKindDef/VFEM_Caravan_Medieval_Sellswords</li>
+			<li>TraderKindDef/VFEM_Visitor_Medieval_Standard</li>
+			<li>TraderKindDef/VFEV_Caravan_Looter</li>
+			<li>FactionDef/VFEM_KingdomCivil</li>
+			<li>FactionDef/VFEM_KingdomRough</li>
+			<li>FactionDef/VFEM_KingdomSavage</li>
+			<li>FactionDef/DankPyon_NobleHouseCivil</li>
+			<li>FactionDef/DankPyon_NobleHouseCivil2</li>
+			<li>FactionDef/DankPyon_NobleHouseFierce</li>
+			<li>FactionDef/DankPyon_NobleHouseSavage</li>
+			<li>FactionDef/DankPyon_UlrikFaction</li>
+			<li>ResearchProjectDef/FT_Stonecrushing</li>
+			<li>ThingDef/AYBrazier</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>
